@@ -24,6 +24,25 @@ Live boot everything
 5. Press start and wait for it to finish
    ![image](https://github.com/user-attachments/assets/69d45d50-b672-4262-afbd-0e81346b31ac)
 
+# i used BalenaEtcher
+6. restart your laptop and go to bios(hold f2 for Asus laptop)
+7. go to advanced option and security and disable secure boot
+8. go to the homepage and change the position of window and the usb
+9. save changes and exit
+10. Enjoy
+
+How to exit?
+1. restart
+2. go to bios
+3. change position of usb and windows
+easier
+1. restart, before it starts back pull out the usb
+
+
+
+PERSISTENCE
+testing lol
+
 
 
 
